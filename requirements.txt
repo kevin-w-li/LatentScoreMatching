@@ -1,0 +1,12 @@
+matplotlib
+numpy
+scikit-learn==0.24.1
+scipy==1.6.2
+tensorboardX==2.2
+tensorflow==2.4.1
+tensorflow-gan==2.0.0
+tensorflow-hub==0.12.0
+tensorflow-probability==0.12.2
+torch==1.7.1
+tqdm==4.59.0
+torchvision==0.8.2
